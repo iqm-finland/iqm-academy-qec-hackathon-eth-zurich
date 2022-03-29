@@ -31,6 +31,11 @@ Don't worry if your team is not complete yet. Hackathons are a great way to meet
 
 There will be a 2h workshop on Saturday morning, where you will learn all the things you need to know to solve this challenge. IQMers will also guide and advice your team with its project. We are also happy to stay in contact with you after the hackathon, if you want to bring your idea further.
 
+# How to submit our work?
+
+Please submit your work by making a pull request to this repository. If you don't know how to do that, we are happy to help you!
+By submitting your work, you agree that you share it under the [GNU GENERAL PUBLIC LICENSE](LICENSE).
+
 # Hackathon Schedule
 
 For the schedule, please check the official homepage.
