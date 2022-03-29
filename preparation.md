@@ -6,8 +6,10 @@ In order to successfully participate in this challenge, you will need to install
 
 ### GUI Version
 
-We will work with a software package called KQCircuits. You can find more details on how to install KQCircuits in the docs:
+We will work with a software package called KQCircuits that builds upon KLayout. You can find more details on how to install KQCircuits in the docs:
 [https://iqm-finland.github.io/KQCircuits/start/installation.html](https://iqm-finland.github.io/KQCircuits/start/installation.html)
+
+Please follow the instructions to install KLayout together with KQCircuits.
 
 ### Developer Version
 
