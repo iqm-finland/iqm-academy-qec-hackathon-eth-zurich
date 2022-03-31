@@ -14,6 +14,7 @@ Here are some examples of chips from different manufacturers.
 - ETH Zürich 8-qubit: https://iopscience.iop.org/article/10.1088/1367-2630/aad1ea/pdf
 - Rigetti 8-qubit: https://pyquil-docs.rigetti.com/en/1.9/qpu.html / https://pyquil-docs.rigetti.com/en/1.9/_images/agave.png
 - Zhejiang University 10-qubit: https://physicsworld.com/a/ten-superconducting-qubits-entangled-by-physicists-in-china/
+- IBM 16-qubit: https://www.pcworld.com/article/406787/ibm-makes-leap-in-quantum-computing-power.html
 - ETH Zürich 17-qubit: https://www.nzz.ch/wissenschaft/quantencomputer-eth-forscher-korrigieren-fehler-mit-17-qubits-ld.1659138
 - Rigetti 20-qubit: https://pyquil-docs.rigetti.com/en/1.9/qpu.html / https://pyquil-docs.rigetti.com/en/1.9/_images/acorn.png
 - Quantware 25-qubit: https://media-exp1.licdn.com/dms/image/C4E22AQEmsT0n8s1L2A/feedshare-shrink_800/0/1647078422518?e=1650499200&v=beta&t=iHyq-IOUd1iG_siKUYet4sLeDoytNWPpS6EmZiqllyU
