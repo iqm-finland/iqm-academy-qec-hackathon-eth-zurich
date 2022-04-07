@@ -6,12 +6,14 @@ In order to successfully participate in this challenge, you will need to install
 
 We will work with a software package called KQCircuits that builds upon KLayout. We recommend to go straight for the developer version, which has the complete functionality. However, there is also a GUI version that you can try out as an alternative.
 
+Whichever version you choose, you need to install KLayout first. Find the version for your system [here](https://www.klayout.de/build.html) and install it as usual.
+
 ### Developer Version
 
 The developer version will help you dig deeper while creating your own QPU!
 In order to run this version, you will need a couple of tools!
 
-KQCircuits installation requires Python 3, which should be already installed on Linux. On Windows you may have to install it. If your Python installation does not already contain the pip package manager, you have to also install that.
+KQCircuits installation requires KLayout (make sure to have it installed already!) and Python 3, which should be already installed on Linux. On Windows you may have to install it. If your Python installation does not already contain the pip package manager, you have to also install that.
 
 Successfully tested versions:
 
