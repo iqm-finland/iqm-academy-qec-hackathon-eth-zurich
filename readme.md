@@ -34,7 +34,7 @@ There will be a 2h workshop on Saturday morning, where you will learn all the th
 # How to submit our work?
 
 If you have used the GUI version, make a pull request to the challenge repository and reference your issue in your pull request.
-If you have worked with KQCircuits developer version, please publish your forked repository to Github and link it inside the issue you created within the hackathon repository.
+If you have worked with KQCircuits developer version, please publish your forked repository to Github, create a pull request and link it inside the issue you created within the hackathon repository.
 By submitting your work, you agree that you share it under the [GNU GENERAL PUBLIC LICENSE](LICENSE).
 
 If you have never done a pull request or published changes, we are happy to help you!
