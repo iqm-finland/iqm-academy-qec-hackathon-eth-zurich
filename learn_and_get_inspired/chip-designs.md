@@ -1,5 +1,8 @@
 # Collection of Ideas for Qubit and Chip designs.
 
+The following links are being provided as a convenience and for informational purposes only; We do not have control
+over these websites and assume no responsibility for the accuracy, legality or content of the external site or for that of subsequent links. This is the explicit responsibility of the external website.
+
 Qubits
 
 - Flux qubit: https://arxiv.org/pdf/1508.06299.pdf
@@ -9,6 +12,7 @@ Qubits
 Here are some examples of chips from different manufacturers.
 
 - IBM 4-qubit: https://arxiv.org/pdf/1509.02815.pdf
+- ETH Zürich 4-qubit: https://commons.wikimedia.org/wiki/File:4_Qubit_Chip,_10.1103.PhysRevX.5.021027_(A._Wallraff,_2015).png
 - IBM 5-qubit: https://arxiv.org/pdf/1805.06275.pdf
 - IBM 7-qubit: https://new.abb.com/news/detail/74736/quantum-computing-the-hype-and-hopes
 - ETH Zürich 8-qubit: https://iopscience.iop.org/article/10.1088/1367-2630/aad1ea/pdf
