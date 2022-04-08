@@ -35,8 +35,9 @@ Pay attention: You need to change <your_user_name> in the first line to your act
 ```
 git clone https://github.com/<your_user_name>/KQCircuits
 cd KQCircuits
-python3 setup_within_klayout.py
+python setup_within_klayout.py
 ```
+For some systems you might run python3 instead of python.
 
 You will find more details on how to proceed here: [https://iqm-finland.github.io/KQCircuits/developer/setup.html](https://iqm-finland.github.io/KQCircuits/developer/setup.html)
 
